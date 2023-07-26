@@ -1,0 +1,105 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Overload_Method",
+            "request": "launch",
+            "mainClass": "Video_Practice.Methods.Overload_Method",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "ArrayList_ForEach",
+            "request": "launch",
+            "mainClass": "Video_Practice.Array.ArrayList_ForEach",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "ARRAYLIST",
+            "request": "launch",
+            "mainClass": "Video_Practice.ARRAYLIST",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "ArrayWithLoop",
+            "request": "launch",
+            "mainClass": "Video_Practice.ArrayWithLoop",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "ForLoop",
+            "request": "launch",
+            "mainClass": "Video_Practice.ForLoop",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "ORoperator",
+            "request": "launch",
+            "mainClass": "Video_Practice.ORoperator",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "JOption",
+            "request": "launch",
+            "mainClass": "Video_Practice.JOption",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "hypotenuse",
+            "request": "launch",
+            "mainClass": "Video_Practice.hypotenuse",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "random",
+            "request": "launch",
+            "mainClass": "Video_Practice.random",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "statement",
+            "request": "launch",
+            "mainClass": "Video_Practice.statement",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "demos10.App",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "demos10.test",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "one",
+            "request": "launch",
+            "mainClass": "test.one",
+            "projectName": "demo"
+        }
+    ]
+}
