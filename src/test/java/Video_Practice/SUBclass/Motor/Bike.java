@@ -1,4 +1,4 @@
-package Video_Practice.SUBclass;
+package Video_Practice.SUBclass.Motor;
 
 public class Bike {
     

@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Video_Practice.SUBclass.OverlaodedConstructors.Main",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Video_Practice.SUBclass.Humansub.Main",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
             "name": "Overload_Method",
             "request": "launch",
             "mainClass": "Video_Practice.Methods.Overload_Method",
