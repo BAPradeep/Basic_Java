@@ -8,6 +8,195 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "Video_Practice.GUI.Label.Main",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Video_Practice.GUI.Frame.Main",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Video_Practice.File_Reader.Main",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Video_Practice.File_Write.Main",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Video_Practice.FIle.Main",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Video_Practice.Exception.Main",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Statement",
+            "request": "launch",
+            "mainClass": "Video_Practice.Statement",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "WhileisBlank",
+            "request": "launch",
+            "mainClass": "Video_Practice.WhileisBlank",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Hypotenuse",
+            "request": "launch",
+            "mainClass": "Video_Practice.Hypotenuse",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Random1",
+            "request": "launch",
+            "mainClass": "Video_Practice.Random1",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Video_Practice.Dynamic_Polymorphism.Main",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Video_Practice.SUBclass.Polymorphism.Main",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Video_Practice.SUBclass.Interface.Main",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Video_Practice.SUBclass.Encapsulation.Main",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "B",
+            "request": "launch",
+            "mainClass": "Video_Practice.SUBclass.Access_Level.Package2.B",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "A",
+            "request": "launch",
+            "mainClass": "Video_Practice.SUBclass.Access_Level.Package1.A",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Video_Practice.SUBclass.Access_Level.Package1.Main",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Video_Practice.SUBclass.Super.Main",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Video_Practice.SUBclass.Method_Overriding.Main",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Video_Practice.SUBclass.Inheritance.Main",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Video_Practice.SUBclass.Static.Main",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Video_Practice.SUBclass.Classthree.Main",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Video_Practice.SUBclass.ThreeClass.Main",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "Video_Practice.SUBclass.classlink.main",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Three",
+            "request": "launch",
+            "mainClass": "Video_Practice.Loop.Three",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "threeD",
+            "request": "launch",
+            "mainClass": "Video_Practice.Loop.threeD",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Video_Practice.SUBclass.ToString.Main",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "Video_Practice.SUBclass.OverlaodedConstructors.Main",
             "projectName": "demo"
         },

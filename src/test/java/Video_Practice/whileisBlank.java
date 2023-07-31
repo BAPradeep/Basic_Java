@@ -2,7 +2,7 @@ package Video_Practice;
 
 import java.util.Scanner;
 
-public class whileisBlank {
+public class WhileisBlank {
     public static void main(String[] args) {
         
         // while loop = executes a block of code as long as a it's condition remain true

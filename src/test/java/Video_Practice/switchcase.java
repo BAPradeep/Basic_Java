@@ -1,6 +1,6 @@
 package Video_Practice;
 
-public class switchcase {
+public class Switchcase {
     public static void main(String[] args) {
         
         String day = "World";

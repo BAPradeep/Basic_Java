@@ -2,7 +2,7 @@ package Video_Practice;
 
 import java.util.Scanner;
 
-public class hypotenuse {
+public class Hypotenuse {
     public static void main(String[] args) {
         double x,y,z;
         

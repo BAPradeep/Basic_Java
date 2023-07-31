@@ -2,7 +2,7 @@ package Video_Practice;
 
 import java.util.Scanner;
 
-public class statement {
+public class Statement {
     public static void main(String[] args) {
     
         int age = 10;
