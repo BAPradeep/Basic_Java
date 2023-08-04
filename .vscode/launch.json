@@ -8,6 +8,69 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "Video_Practice.GUI.TextField.Main",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "JOptionPane_pop_up",
+            "request": "launch",
+            "mainClass": "Video_Practice.POP_UP.JOptionPane_pop_up",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Video_Practice.GUI.HowToOpenNewWindow.Main",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Video_Practice.GUI.LayeredPane.Main",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Video_Practice.GUI.Layout_Manager_GridLayout.Main",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Video_Practice.GUI.Layout_Manager_FlowLayout.Main",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Video_Practice.GUI.Layout_Manager.Main",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Video_Practice.GUI.Button.Main",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Video_Practice.GUI.Panel.Main",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "Video_Practice.GUI.Label.Main",
             "projectName": "demo"
         },
